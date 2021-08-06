@@ -1,0 +1,43 @@
+.container {
+    height :400px;
+    width :800px;
+}
+
+.userName{
+    display : flex;
+    width: 100%;
+}
+
+input {
+    width : 200px;
+    height: 40px;
+}
+
+.submit {
+    color : white;
+    background-color: blue;
+    border-radius : 5px;
+    width: 100px;
+}
+
+ul {
+    display: block;
+    list-style-type : none;
+    width: 40%;
+    
+}
+
+li {
+    border: 1px solid black;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
